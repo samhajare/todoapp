@@ -13,7 +13,7 @@ Update todo
 http://localhost:8081/update/1
 
 Delete todo 
-http://localhost:8081/create/2
+http://localhost:8081/delete/2
 
 #database
 Edit config/db.config file and your credintials
