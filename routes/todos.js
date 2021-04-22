@@ -2,7 +2,7 @@ const router = require("express").Router();
 
 const Task = require("../models/task.model");
 
-var dbConn = require("/home/samadhan/Nodejs/todoapp/config/db.config.js");
+var dbConn = require("../config/db.config.js");
 
 //Get All todo data
 router.route("/").get((req, res) => {
