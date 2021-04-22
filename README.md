@@ -17,3 +17,8 @@ http://localhost:8081/delete/2
 
 #database
 Edit config/db.config file and your credintials
+
+
+Run Test case 
+
+npm run test
